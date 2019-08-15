@@ -65,6 +65,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 6: Conditionals](https://norasandler.com/2018/02/25/Write-a-Compiler-6.html)
   - [Part 7: Compound Statements](https://norasandler.com/2018/03/14/Write-a-Compiler-7.html)
   - [Part 8: Loops](https://norasandler.com/2018/04/10/Write-a-Compiler-8.html)
+  - [Part 9: Functions](https://norasandler.com/2018/06/27/Write-a-Compiler-9.html)
+  - [Part 10: Global Variables](https://norasandler.com/2019/02/18/Write-a-Compiler-10.html)
 - [Implementing a Language with LLVM](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
 - [Meta Crush Saga: a C++17 compile-time game](https://jguegant.github.io//jguegant.github.io/blogs/tech/meta-crush-saga.html)
 - [High-Performance Matrix Multiplication](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0)
@@ -452,6 +454,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 3](http://www.ardendertat.com/2011/07/17/how-to-implement-a-search-engine-part-3-ranking-tf-idf/)
 - [Build the Game of Life](https://robertheaton.com/2018/07/20/project-2-game-of-life/)
 - [Create terminal ASCII art](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/)
+- [Write a Tic-Tac-Toe AI](https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/)
+- [Create photomosaic art](https://robertheaton.com/2018/11/03/programming-project-4-photomosaics/)
+- [Build the game "Snake" in the terminal](https://robertheaton.com/2018/12/02/programming-project-5-snake/)
+- [Write yourself a Git](https://wyag.thb.lt/)
 
 ## Go:
 
@@ -522,7 +528,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 1](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/)
   - [Part 2a](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2a/)
   - [Part 2b](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2b/)
-- [Write an OS in pure Rust](https://os.phil-opp.com/news/2018-03-09-pure-rust/)
+- [Write an OS in pure Rust](https://os.phil-opp.com/)
 - [Build a browser engine in Rust](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - [Write a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/)
 - [Learning Rust with Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html)
